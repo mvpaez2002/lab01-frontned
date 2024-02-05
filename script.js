@@ -21,7 +21,7 @@ let primoTemp =1
 
 console.log(esPrimo(17))
 while (i< cantidad){
-if(esPrimo(primoTemp)){
+if(esPrimo(primoTemp )&& i>=1){
     console.log(i,"->", primoTemp);
     i++
 }
