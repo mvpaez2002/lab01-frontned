@@ -14,13 +14,13 @@ const esPrimo = primo => {
 }
 
 
-const cantidad =15
+const cantida =15
 let i =0
 let primoTemp =1
 
 
 console.log(esPrimo(17))
-while (i< cantidad){
+while (i< cantida){
 if(esPrimo(primoTemp)){
     console.log(i,"->", primoTemp);
     i++
