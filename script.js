@@ -14,7 +14,7 @@ const esPrimo = primo => {
 }
 
 
-const cantida =15
+const cantida =18
 let i =0
 let primoTemp =1
 
