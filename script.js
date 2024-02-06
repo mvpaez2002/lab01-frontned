@@ -27,3 +27,4 @@ if(esPrimo(primoTemp)){
 }
     primoTemp++
 }
+console.log("sopa")
